@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Wes and Sam</title>
+	<link rel="stylesheet" href="untitled.css">
+</head>
+<body>
+	<div id="container">
+	<header>
+		<div id="banner">
+			<h1><img src="img/2017/logo.jpg" alt="SpeXial"></h1>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="#">♡ Hello Wes ♡</a></li>
+				<li><a href="#">♡ Hello Sam ♡</a></li>
+				<li><a href="#">♡ Hello Wes Sam ♡</a></li>
+				<li><a href="#">♡ Sweet Wes ♥ Sam ♡</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<div id="topnews">
+			<img src="img/2017/726.jpg" alt="picture 2">
+			<div id="lead">
+				<h2>嗨！你好嗎？歡迎來到宏正和子閎的世界！！(≧∀≦)</h2>
+				<p>想念他們嗎？一起來看看吧！</p>
+				<p class="data">2020年月10月19日</p>
+				<p class="more"><a href="#">MORE</a></p>
+			</div>
+		</div>
+		<div id="oldnews">
+			<div class="post">				
+				<a href="#">
+					<img src="img/2017/001.jpg" alt="Wes 1">
+					<h2>Mr.Wes ＆ Sam</h2>
+					<p>勾肩搭背(♡˙︶˙♡)</p>
+					<p class="data">2020年10月20日</p>
+					<p class="more_s">MORE</p>
+				</a>
+
+			</div>
+			<div class="post">
+				
+				<a href="#">
+					<img src="img/2017/789.jpg" alt="Wes 2">
+					<h2>Mr.Wes ＆ Sam</h2>
+					<p>共同搞怪٩(｡・ω・｡)﻿و</p>
+					<p class="data">2020年10月21日</p>
+					<p class="more_s">MORE</p>
+				</a>
+
+			</div>
+			<div class="post">
+				
+				<a href="#">
+					<img src="img/2017/123.jpg" alt="Wes 3">
+					<h2>Mr.Wes ＆ Sam</h2>
+					<p>甜蜜搭檔(๑´ڡ`๑)</p>
+					<p class="data">2020年10月22日</p>
+					<p class="more_s">MORE</p>
+				</a>
+
+			</div>
+			<div class="post">
+				
+				<a href="#">	
+					<img src="img/2017/456.jpg" alt="Wes 4">
+					<h2>Mr.Wes ＆ Sam</h2>
+					<p>交頭接耳 開心快樂ε٩(๑> ₃ <)۶з</p>
+					<p class="data">2020年10月23日</p>
+					<p class="more_s">MORE</p>
+				</a>
+
+			</div>
+		</div>		
+	</main>
+
+	<footer>
+		<p>Jen's Dream</p>
+		<div id="iconmenu">
+			<ul>
+				<li>
+					<a href="...">
+						<img src="img/2017/icons8-推特.svg" alt="twitter">
+					</a>
+				</li>
+				<li>
+					<a href="https://www.facebook.com/">
+						<img src="img/2017/icons8-Facebook.svg" alt="facebook">
+					</a>
+				</li>
+				<li>
+					<a href="https://www.youtube.com/channel/UCvGl4jz9_fkls6SjwLbxcsw?view_as=subscriber">
+						<img src="img/2017/icons8-YouTube.svg" alt="youtube">
+					</a>
+				</li>
+				<li>
+					<a href="https://www.instagram.com/?hl=zh-tw">
+						<img src="img/2017/icons8-Instagram.svg" alt="instagram">
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div id="submenu">
+			<ul>
+				
+				<li><a href="..."></a></li>
+
+				<li><a href="..."></a></li>
+				
+				<li><a href="..."></a></li>
+			
+			</ul>
+		</div>
+		<small> ♡♡ Pictures taken from the logo ♡♡ </small>
+	</footer>
+</body>
+</html>
